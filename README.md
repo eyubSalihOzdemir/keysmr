@@ -1,16 +1,15 @@
-# keysmr
+# KeySMR
 
-Flutter version of Unity KeySMR.
+A Flutter app made for ASMR enthusiasts (keyboard sounds specifically), using Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is an app that uses keyboard sounds and pleasing music and ambient sounds to create a soothing environment for you. <br />
+If you are like me and you like to listen to ASMR and especially keyboard sounds to focus, study and sleep, this app might be enjoyable for you.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### What can you do with this? 
+-Change the "Speed" to simulate the typing style you like the most. <br />
+-Change the "Randomness" to create a more natural typing style as you like. <br />
+-Choose between different types of keyboard sounds. <br />
+-Add different ambient effects to max out your chill. <br />
+-Feel the realistic simulation thanks to tens of individually recorded key sounds. <br />
