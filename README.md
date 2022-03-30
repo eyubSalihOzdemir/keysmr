@@ -1,2 +1,2 @@
 # keysmr
-A Flutter app that made for ASMR (calming, pleasurable feeling) purposes.
+A Flutter app made for ASMR enthusiasts (keyboard sounds specifically), using Flutter.
