@@ -2,7 +2,7 @@
 
 A Flutter app made for ASMR enthusiasts (keyboard sounds specifically), using Flutter.
 
-## Getting Started
+## What is this?
 
 This is an app that uses keyboard sounds and pleasing music and ambient sounds to create a soothing environment for you. <br />
 If you are like me and you like to listen to ASMR and especially keyboard sounds to focus, study and sleep, this app might be enjoyable for you.
