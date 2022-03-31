@@ -1,6 +1,6 @@
 # KeySMR - Keyboard ASMR Simulator
 
-A Flutter app made for ASMR enthusiasts (keyboard sounds specifically), using Flutter.
+An app made for ASMR enthusiasts (keyboard sounds specifically), using Flutter.
 
 ## Play Store (5.000+ downloads):
 https://play.google.com/store/apps/details?id=com.SalihOzdemir.KeySMR
